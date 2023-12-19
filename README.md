@@ -19,7 +19,7 @@ Final Project
 
 
 
-#Week 1:
+# Week 1:
 
 • Introduction to embedded systems. 
 • Some of the possible career tracks of embedded system. 
@@ -33,12 +33,12 @@ Final Project
 • C Operators. (Arithmetic-bitwise-logic...etc)
 • Casting in C.
 --------------------------------
-#Week 2:
+# Week 2:
 
 • Control flow statements (condition branching, looping, and jumping)
 
 --------------------------------
-#Week 3:
+# Week 3:
 
 • Memory layout of C programs 
 • Functions
@@ -46,12 +46,12 @@ Final Project
 • Arrays
 
 --------------------------------
-#Week 4:
+# Week 4:
 
 • Pointers in C.
 
 --------------------------------
-#Week 5:
+# Week 5:
 
 • Data modifiers in C ( sign, size, storage, etc).
 • Constant and Volatile keywords 
@@ -60,7 +60,7 @@ Final Project
 • Structures in C
 
 --------------------------------
-#Week 6:
+# Week 6:
 
 • Bit-fields. 
 • Unions. 
@@ -69,20 +69,20 @@ Final Project
 • Memory management in C.
 
 --------------------------------
-#Week 7:
+# Week 7:
 
 • Software Engineering intro. (SDLCs) 
 • Algorithms (searching and sorting).
 • Data Structures (Stack- queue- Circular Queue).
 
 --------------------------------
-#Week 8:
+# Week 8:
 
 • Data Structures (Singly linked lists) 
 • Data Structures (Doubly linked lists)
 
 --------------------------------
-#Week 9:
+# Week 9:
 
 • Embedded system concepts 
 • Computer architecture.
@@ -96,7 +96,7 @@ Final Project
 • Embedded C building Process.
 
 --------------------------------
-#Week 10:
+# Week 10:
 
 • Flashing techniques 
 • Bootloader. 
