@@ -1,5 +1,7 @@
 # NTI-Training
-National Telecommunication Institute (NTI) Training in C and Embedded C
+National Telecommunication Institute (NTI) Training in C and Embedded C.
+
+
 
 | Week  | Content |
 | ------------- | ------------- |
@@ -17,31 +19,89 @@ Final Project
 
 
 
-Week 1:
+#Week 1:
+
+• Introduction to embedded systems. 
+• Some of the possible career tracks of embedded system. 
+• Programming languages overview. 
+• C programming intro. And history. 
+• Why C Programming for embedded apps. 
+• Writing first program in c and make the proper setups. 
+• C file structure. 
+• Data types in C. 
+• Variables. 
+• C Operators. (Arithmetic-bitwise-logic...etc)
+• Casting in C.
+--------------------------------
+#Week 2:
+
+• Control flow statements (condition branching, looping, and jumping)
 
 --------------------------------
-Week 2:
+#Week 3:
+
+• Memory layout of C programs 
+• Functions
+• Variables scope and lifetime.
+• Arrays
 
 --------------------------------
-Week 3:
+#Week 4:
+
+• Pointers in C.
 
 --------------------------------
-Week 4:
+#Week 5:
+
+• Data modifiers in C ( sign, size, storage, etc).
+• Constant and Volatile keywords 
+• Typedef 
+• Strings in C
+• Structures in C
 
 --------------------------------
-Week 5:
+#Week 6:
+
+• Bit-fields. 
+• Unions. 
+• Enumerations. 
+• Preprocessor directives.
+• Memory management in C.
 
 --------------------------------
-Week 6:
+#Week 7:
+
+• Software Engineering intro. (SDLCs) 
+• Algorithms (searching and sorting).
+• Data Structures (Stack- queue- Circular Queue).
 
 --------------------------------
-Week 7:
+#Week 8:
+
+• Data Structures (Singly linked lists) 
+• Data Structures (Doubly linked lists)
 
 --------------------------------
-Week 8:
+#Week 9:
+
+• Embedded system concepts 
+• Computer architecture.
+• Memory types. 
+• Embedded C concepts. 
+• Interrupt concept. 
+• Startup code. 
+• Embedded software architecture. 
+• Software layering. (MCAL, HAL, service layer..etc) 
+• SOLID principles.
+• Embedded C building Process.
 
 --------------------------------
-Week 9:
+#Week 10:
 
---------------------------------
-Week 10:
+• Flashing techniques 
+• Bootloader. 
+• Makefiles
+• Configuration types.
+• Version control introduction using (git).
+• Final Exam.
+
