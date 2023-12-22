@@ -21,16 +21,16 @@ Final Project
 
 # Week 1:
 
-• Introduction to embedded systems. 
-• Some of the possible career tracks of embedded system. 
-• Programming languages overview. 
-• C programming intro. And history. 
-• Why C Programming for embedded apps. 
-• Writing first program in c and make the proper setups. 
-• C file structure. 
-• Data types in C. 
-• Variables. 
-• C Operators. (Arithmetic-bitwise-logic...etc)
+• Introduction to embedded systems. \
+• Some of the possible career tracks of embedded system. \
+• Programming languages overview. \
+• C programming intro. And history. \
+• Why C Programming for embedded apps. \
+• Writing first program in c and make the proper setups. \
+• C file structure. \
+• Data types in C. \
+• Variables. \
+• C Operators. (Arithmetic-bitwise-logic...etc). \
 • Casting in C.
 --------------------------------
 # Week 2:
@@ -40,9 +40,9 @@ Final Project
 --------------------------------
 # Week 3:
 
-• Memory layout of C programs 
-• Functions
-• Variables scope and lifetime.
+• Memory layout of C programs. \
+• Functions. \
+• Variables scope and lifetime. \
 • Arrays
 
 --------------------------------
@@ -53,55 +53,86 @@ Final Project
 --------------------------------
 # Week 5:
 
-• Data modifiers in C ( sign, size, storage, etc).
-• Constant and Volatile keywords 
-• Typedef 
-• Strings in C
-• Structures in C
+• Data modifiers in C ( sign, size, storage, etc).\
+• Constant and Volatile keywords. \
+• Typedef. \ 
+• Strings in C. \
+• Structures in C.
 
 --------------------------------
 # Week 6:
 
-• Bit-fields. 
-• Unions. 
-• Enumerations. 
-• Preprocessor directives.
+• Bit-fields. \
+• Unions. \
+• Enumerations. \
+• Preprocessor directives. \
 • Memory management in C.
 
 --------------------------------
 # Week 7:
 
-• Software Engineering intro. (SDLCs) 
-• Algorithms (searching and sorting).
+• Software Engineering intro. (SDLCs). \
+• Algorithms (searching and sorting). \
 • Data Structures (Stack- queue- Circular Queue).
 
 --------------------------------
 # Week 8:
 
-• Data Structures (Singly linked lists) 
-• Data Structures (Doubly linked lists)
+• Data Structures (Singly linked lists). \
+• Data Structures (Doubly linked lists).
 
 --------------------------------
 # Week 9:
 
-• Embedded system concepts 
-• Computer architecture.
-• Memory types. 
-• Embedded C concepts. 
-• Interrupt concept. 
-• Startup code. 
-• Embedded software architecture. 
-• Software layering. (MCAL, HAL, service layer..etc) 
-• SOLID principles.
+• Embedded system concepts. \
+• Computer architecture. \
+• Memory types. \
+• Embedded C concepts. \
+• Interrupt concept. \ 
+• Startup code. \
+• Embedded software architecture. \
+• Software layering. (MCAL, HAL, service layer..etc). \
+• SOLID principles. \
 • Embedded C building Process.
 
 --------------------------------
 # Week 10:
 
-• Flashing techniques 
-• Bootloader. 
-• Makefiles
-• Configuration types.
-• Version control introduction using (git).
+• Flashing techniques \
+• Bootloader. \
+• Makefiles. \
+• Configuration types. \
+• Version control introduction using (git). \
 • Final Exam.
+
+
+# Final Project
+
+## The project is an Employee Managment System using Linked list Data Structure
+
+### The Linked List is implemented with the following Functions
+
+1- Insertion at the begining.\
+2- Insertion at the End.\ 
+3- Insertion at a certain position.\
+4- Deletion at the begining.\
+5- Deletion at the end.\ 
+6- Deletion at a certain node.\
+7- Deletion by value.\
+8- Get the number of elements.\
+9- Reverse the list.\
+10- Search by value.\
+11- Edit by Value.\ 
+12- Free the list(Delete the whole List).\
+13- Display the list.
+
+
+The Employee Managment System has the following Functions 
+
+1- Add an Employee Record.\
+2- Modify an Employee Record.\
+3- Delete an Employee Record.\
+4- View an Employee Record.\
+5- View All Employees Records.\
+6- Exits.
 
