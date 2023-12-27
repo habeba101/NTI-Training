@@ -192,4 +192,6 @@ Final Project
 
 6- Exits.
 
+You can find a report for the final project with snippet of the code explainned
 
+[Final Project report.pdf](https://github.com/habeba101/NTI-Training/files/13780804/Final.Project.report.pdf)
