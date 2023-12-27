@@ -148,18 +148,17 @@ Final Project
 ## The project is an Employee Managment System using Linked list Data Structure
 
 ### The Linked List is implemented with the following Functions
+1- Insertion at the beginning.
 
-1- Insertion at the begining.
-
-2- Insertion at the End.
+2- Insertion at the End. 
 
 3- Insertion at a certain position.
 
-4- Deletion at the begining.
+4- Deletion at the beginning.
 
 5- Deletion at the end.
 
-6- Deletion at a certain node.
+6- Deletion of a certain node.
 
 7- Deletion by value.
 
@@ -174,6 +173,9 @@ Final Project
 12- Free the list(Delete the whole List).
 
 13- Display the list.
+
+14- Check by value.
+
 
 
 ## The Employee Managment System has the following Functions 
